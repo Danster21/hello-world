@@ -2,9 +2,9 @@
 Geot the hang of Git Hub
 
 ##Hello
-<break></break>
+<br></br>
 I guess I'm just here
-<break></break>
+<br></br>
 to learn a bit about Git.
-<break></break>
+<br></br>
 Welp, already done
